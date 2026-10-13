@@ -1,14 +1,5 @@
 [
   {
-    "id": "att-1791878027549-6",
-    "timestamp": "Just Now",
-    "questionId": "test-q-1",
-    "companionName": "Priya Sharma (Trainee)",
-    "type": "TEST_ATTEMPT",
-    "isCorrect": true,
-    "submittedAnswer": "Test Answer"
-  },
-  {
     "id": "att-ps-1",
     "companionName": "Priya Sharma (Trainee)",
     "moduleId": "mod-1",
